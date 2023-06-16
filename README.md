@@ -1,3 +1,0 @@
-
-
-Low level C programming
